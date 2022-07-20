@@ -1,6 +1,6 @@
 ## Oiii eu sou o VG
 <div>
-  <p>Visite meu <a href="https://vg083.github.io/MeuPortfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a></p>
+  <p>Visite meu <a href="https://vg083.github.io/MeuPortfolio/" target="_blank">site</a></p>
 </div>
 <div align="center">
   <a href="https://github.com/VG083">
